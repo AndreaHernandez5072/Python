@@ -1,0 +1,3 @@
+Este programa, se le conoce como Mad Libs en inglés y consiste en un juego donde el programa
+crea parráfo con espacios vacíos. Entonces, el jugador debe llenar las palabras faltantes 
+para completar el parráfo y al final, muestra el parráfo resultante al usuario. 
